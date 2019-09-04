@@ -22,6 +22,7 @@
     "test": "istanbul cover node_modules/.bin/_mocha -- test/*-test.js"
   },
   "dependencies": {
+    "buffer": "^5.4.2",
     "https-browserify": "benkaiser/https-browserify",
     "stream-browserify": "^2.0.2",
     "stream-http": "^3.1.0",
